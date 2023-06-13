@@ -1,6 +1,10 @@
 # JAVA OOP CONCEPTS
-## Abstraction
-## Encapsulation
-## Polymorphism
-## Inheritance 
-### Are the four main theoretical principles of object-oriented programming. But Java also works with three further OOP concepts: association, aggregation, and composition.
+## The four main theoretical principles of object-oriented programming
+### Abstraction
+### Encapsulation
+### Polymorphism
+###  Inheritance 
+## Java also works with three further OOP concepts: 
+### Association
+### Aggregation
+### Composition
