@@ -1,6 +1,6 @@
 # JAVA OOP CONCEPTS
 ## The four main theoretical principles of object-oriented programming
-### Abstraction
+### [Abstraction](/Abstraction)
 ### Encapsulation
 ### Polymorphism
 ###  Inheritance 
