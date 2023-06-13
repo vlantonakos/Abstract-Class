@@ -1,2 +1,2 @@
-# Abstract Class
-# Interfaces
+# [Abstract Class](/Abstract-Class)
+# [Interfaces](/Interfaces)
