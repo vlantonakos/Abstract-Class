@@ -4,8 +4,8 @@ Encapsulation helps with data security, allowing you to protect the data stored 
 You can implement encapsulation in Java by making the fields (class variables) private and accessing them via their public getter and setter methods. JavaBeans are examples of fully encapsulated classes.
 
 Encapsulation in Java:
-    Restricts direct access to data members (fields) of a class
-    Fields are set to private
-    Each field has a getter and setter method
-    Getter methods return the field
-    Setter methods let us change the value of the field
+    --Restricts direct access to data members (fields) of a class |
+    --Fields are set to private |
+    --Each field has a getter and setter method |
+    --Getter methods return the field |
+    --Setter methods let us change the value of the field |
